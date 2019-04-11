@@ -1,0 +1,28 @@
+ p:hover {
+  color: red;
+ }
+
+ h1{
+     text-align: center;
+ }
+
+ html {
+    background-color: #C0C0F6;
+    font-size: 20px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Indie Flower', cursive; /* this should be the rest of the output you got from Google fonts */
+  }
+
+ body {
+    background-color:darkslateblue;
+    width: 700px;
+    margin: 0 auto; 
+    border: 5px solid black;
+    padding: 0 20px 20px 20px; 
+  }
+
+  img {
+      height: 200px;
+      display: block;
+      margin: auto;
+  }
+
